@@ -334,7 +334,7 @@ h2 {
 	/* HERO */
 	h1 { font-size: 40px; line-height: 40px; }
 	#countdown div span {font-size: 24px; line-height: 34px;}
-	.sub-title { font-size: ; line-height: ; margin-top: 10px; }
+	.sub-title { font-size: 18px; line-height: 1em; margin-top: 10px; }
 	/* TITLE & CONTACT */
 	.title { top: 15%;}
 	.contact .icons { margin-bottom: 0px; }
@@ -410,9 +410,9 @@ h2 {
 /* Landscape Phone */
 @media all and (min-width: 400px) {
 	/* HERO */
-	h1 { font-size: 40px; line-height: 40px; }
+	h1 { font-size: 70px; line-height: 40px; }
 	#countdown div span {font-size: 24px; line-height: 34px;}
-	.sub-title { font-size: ; line-height: ; margin-top: 10px; }
+	.sub-title { font-size: ; line-height: ; margin-top: 80px; padding: 0 20px; }
 	/* TITLE & CONTACT */
 	.title { top: 15%;}
 	.contact .icons { margin-bottom: 0px; }
